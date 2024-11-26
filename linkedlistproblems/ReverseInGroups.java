@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlistproblems;
 
 class ReverseInGroups {
     static class ListNode {

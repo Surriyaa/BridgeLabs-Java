@@ -1,4 +1,4 @@
-package com.ExceptionHandling;
+package exceptionhandling;
 import java.util.*;	
 
 	class Alpha{
@@ -16,6 +16,7 @@ import java.util.*;
 				int data=sc.nextInt();
 				arr[index]=data;
 				System.out.println("End 4");
+				sc.close();
 			}
 			catch(ArithmeticException ae) {
 				System.out.println(ae+"Give non zero input");

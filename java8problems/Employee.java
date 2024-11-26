@@ -1,4 +1,4 @@
-package com.java8problems;
+package java8problems;
 
 public class Employee {
 	private int id;

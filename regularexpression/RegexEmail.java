@@ -1,3 +1,5 @@
+package regularexpression;
+
 /*Create a regular expression that accepts alphanumeric characters only.  
 Its length must be six characters long only.*/
 

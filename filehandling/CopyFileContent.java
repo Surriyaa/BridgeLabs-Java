@@ -1,9 +1,9 @@
-package com.filehandling;
+package filehandling;
 
 import java.io.BufferedReader;
-import java.io.File;
+//import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
+//import java.io.FileWriter;
 import java.io.IOException;
 
 public class CopyFileContent {
@@ -39,7 +39,6 @@ public class CopyFileContent {
 			System.out.println("Character count "+characterCount);
 			bReader.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

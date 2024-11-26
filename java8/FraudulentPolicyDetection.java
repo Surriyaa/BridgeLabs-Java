@@ -1,4 +1,4 @@
-package com.java8;
+package java8;
 //this is a com.java8coding package class
 import java.util.*;
 import java.util.stream.*;

@@ -1,4 +1,4 @@
-package com.filehandling;
+package filehandling;
 import java.io.File;
 public class FileHandling {
 

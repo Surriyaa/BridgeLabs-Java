@@ -1,4 +1,4 @@
-package com.policy;
+package policy;
 
 import java.util.*;
 

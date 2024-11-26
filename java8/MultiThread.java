@@ -1,4 +1,4 @@
-	package com.java8;
+	package java8;
 	
 	
 //	class A implements Runnable

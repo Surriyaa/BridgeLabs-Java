@@ -1,4 +1,4 @@
-package com.java8problems;
+package java8problems;
 
 import java.util.Arrays;
 import java.util.Date;

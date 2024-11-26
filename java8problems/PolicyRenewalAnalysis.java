@@ -1,4 +1,4 @@
-package com.java8problems;
+package java8problems;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

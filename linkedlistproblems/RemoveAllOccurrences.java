@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlistproblems;
 
 class RemoveAllOccurrences {
     static class ListNode {

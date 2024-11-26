@@ -1,5 +1,4 @@
-package com.filehandling;
-
+package filehandling;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -21,13 +20,14 @@ public class FileCopiying {
 			}
 			
 			output.flush();
+			input.close();
+			output.close();
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
 	}
 
 }

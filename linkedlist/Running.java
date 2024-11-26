@@ -1,6 +1,6 @@
-package com.linkedlist;
+package linkedlist;
 
-public class Runninga {
+public class Running {
 
 	public static void main(String[] args) {
 		QueueLinkedList<Integer> q=new QueueLinkedList<Integer>();

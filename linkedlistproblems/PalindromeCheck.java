@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlistproblems;
 
 import java.util.Stack;
 

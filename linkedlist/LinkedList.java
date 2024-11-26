@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlist;
 public class LinkedList {
 	private Node head;//head is by def null
 	public void insert(int data) {

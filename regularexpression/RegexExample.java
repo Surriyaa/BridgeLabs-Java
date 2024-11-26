@@ -1,3 +1,5 @@
+package regularexpression;
+
 import java.util.Scanner;
 import java.util.regex.*;
 
@@ -17,6 +19,7 @@ public class RegexExample {
             if (!found) {
                 System.out.println("No match found");
             }
+            sc.close();
         }
     }
 }

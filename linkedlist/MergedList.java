@@ -1,4 +1,4 @@
-package com.collections;
+package linkedlist;
 
 class ListNode {
     int val;

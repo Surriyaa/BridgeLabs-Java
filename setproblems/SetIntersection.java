@@ -1,4 +1,4 @@
-package com.setproblems;
+package setproblems;
 
 import java.util.HashSet;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.insurance;
+package insurance;
 
 import java.time.LocalDate;
 import java.util.List;

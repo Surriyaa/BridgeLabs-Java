@@ -1,4 +1,4 @@
-package com.linkedlist;
+package linkedlistproblems;
 
 class ReorderList {
     static class ListNode {

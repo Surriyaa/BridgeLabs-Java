@@ -1,4 +1,4 @@
-package com.graph;
+package graph;
 
 public class Runner {
 

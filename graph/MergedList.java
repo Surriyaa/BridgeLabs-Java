@@ -1,4 +1,4 @@
-package com.graph;
+package graph;
 
 class ListNode {
     int val;       // Value stored in the node
