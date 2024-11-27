@@ -1,4 +1,4 @@
-package com.java;
+package datastructure;
 import java.util.*;
 public class Products {
 
@@ -14,6 +14,7 @@ public class Products {
 		int maxProduct=arr[arr.length-1]*arr[arr.length-2];
 		System.out.println(arr[1]);
 		System.out.println("Maximum product is :"+maxProduct);
+		sc.close();
 	}
 
 }

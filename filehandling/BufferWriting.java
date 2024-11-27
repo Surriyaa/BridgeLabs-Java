@@ -42,6 +42,7 @@ public class BufferWriting {
 				System.out.println(str);
 				str=bReader.readLine();
 				line++;
+				bReader.close();
 			}
 			System.out.println("No of lines ="+line);
 			System.out.println("No of sen ="+sen);
@@ -55,7 +56,6 @@ public class BufferWriting {
 			
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

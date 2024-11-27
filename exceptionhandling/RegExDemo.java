@@ -24,8 +24,9 @@ public class RegExDemo {
 			else
 				System.out.println(mob+" is a invalid Mobile Number");
 			present =sc.hasNext();
+			
 		}
-		
+		sc.close();
 
 	}
 

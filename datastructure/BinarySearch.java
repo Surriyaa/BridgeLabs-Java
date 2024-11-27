@@ -1,4 +1,4 @@
-package com.java;
+package datastructure;
 import java.util.*;
 public class BinarySearch {
 	class Graph{

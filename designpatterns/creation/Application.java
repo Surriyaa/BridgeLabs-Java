@@ -1,4 +1,4 @@
-package designpatterns.singletonpattern;
+package designpatterns.creation;
 
 class Database{
     private static Database instance;

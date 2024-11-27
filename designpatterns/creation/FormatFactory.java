@@ -1,4 +1,4 @@
-package designpatterns.singletonpattern;
+package designpatterns.creation;
 
 interface Transport{
     void delivery();

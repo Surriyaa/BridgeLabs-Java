@@ -1,6 +1,4 @@
-package com.practiceprograms;
-
-import java.util.List;
+package datastructure;
 
 class ListNode{
 		ListNode next;

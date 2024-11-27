@@ -1,4 +1,4 @@
-package com.datastructure;
+package datastructure;
 
 public class BubbleSort {
 

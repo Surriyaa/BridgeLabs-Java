@@ -12,6 +12,7 @@ class Demo{
 			int a=sc.nextInt();
 			int b=sc.nextInt();
 			System.out.println(a/b);
+			sc.close();
 		}
 		catch(Exception e) {
 			System.out.println("Handled in alpha");
