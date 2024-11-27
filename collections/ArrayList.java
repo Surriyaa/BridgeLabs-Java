@@ -1,4 +1,4 @@
-package com.collections;
+package collections;
 
 class ArrayList<T>{
 

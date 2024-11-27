@@ -1,4 +1,4 @@
-package com.collections;
+package collections;
 
 public class Set<T> {
 	public Object set[];

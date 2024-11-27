@@ -32,7 +32,7 @@ class ModernAppliances {
         socket.plugin();
     }
 }
-public class Main{
+public class Adapter{
     public static void main(String[] args) {
     // Existing OldSocket instance
     OldSocket oldSocket=new OldSocket();
@@ -41,6 +41,7 @@ public class Main{
      // Modern appliance uses the adapter
     ModernAppliances appliance=new ModernAppliances(adapter);
         appliance.use();
+        System.out.println();
         System.out.println("OldSocket created: " + oldSocket);
         System.out.println("Adapter created: " + adapter);
         System.out.println("ModernAppliance created: " + appliance);
