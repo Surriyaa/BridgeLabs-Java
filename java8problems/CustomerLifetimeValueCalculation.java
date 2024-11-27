@@ -1,7 +1,6 @@
 package java8problems;
 import java.time.LocalDate;
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 class CustomerTransaction {

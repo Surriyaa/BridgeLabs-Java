@@ -1,10 +1,9 @@
-package com.java;
+package stack.practiceprograms;
 
     class Account{
     private int accNo;
     private int pass;	
 	private int deposit=0;
-	private int withdrawal=0;
 	private int transfer;
 	private int balance=0;
 	// setting
@@ -75,7 +74,7 @@ package com.java;
 public class Banking {
 
 	public static void main(String[] args) {
-		Account a=new Account();
+		//Account a=new Account();
 		SavingsAcc s=new SavingsAcc(1.5);
 		CheckingAcc c=new CheckingAcc(2.5);
 		s.accNum(79099);

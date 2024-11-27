@@ -6,7 +6,7 @@ import java.util.Map;
 public class FrequencyCounter {
 
 	public static void main(String[] args) {
-		Map<Character,Integer> words=new HashMap();
+		Map<Character,Integer> words=new HashMap<>();
 		String str="Sssurriya";
 		for(int i=0;i<str.length();i++) {
 			if(words.get(str.charAt(i)) == null) {

@@ -1,4 +1,4 @@
-package com.map.policy;
+package map.policy;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

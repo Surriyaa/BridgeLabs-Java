@@ -1,4 +1,4 @@
-package com.queue;
+package queue;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

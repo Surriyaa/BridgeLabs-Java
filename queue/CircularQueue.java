@@ -1,4 +1,4 @@
-package com.queue;
+package queue;
 
 public class CircularQueue {
     private int[] arr;
